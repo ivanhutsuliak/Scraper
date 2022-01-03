@@ -1,0 +1,123 @@
+{:vacancy=>"Технический специалист GetCourse", :salary=>"12 000 – 14 000 грн", :company=>"Trend X"}
+{:vacancy=>"Продавец-консультант в магазин Apple-техники Dmitryuk", :salary=>"8 000 – 15 000 грн", :company=>"Дмитрюк А. А., ФОП"}
+{:vacancy=>"Программист 1C", :salary=>"25 000 грн", :company=>"Тайстра Груп, ТОВ"}
+{:vacancy=>"Инженер-конструктор (3Ds max, AutoCad, Компас)", :salary=>"15 000 – 20 000 грн", :company=>"Стиль-Люкс, ТОВ"}
+{:vacancy=>"Delphi-C# WinForms developer", :salary=>"", :company=>"CherniSoft, LLC"}
+{:vacancy=>"Full stack Developer (.Net/C#)", :salary=>"", :company=>"Sales-Up"}
+{:vacancy=>"Майстер з ремонту телефонів та комп'ютерної техніки, технік, сервісний інженер", :salary=>"18 000 – 35 000 грн", :company=>"Granovski"}
+{:vacancy=>"Програміст 1C", :salary=>"", :company=>"Union Group"}
+{:vacancy=>"Продавець-консультант цифрової техніки (ТРЦ \"Депот\")", :salary=>"", :company=>"Moyo, мережа магазинів"}
+{:vacancy=>"Продакт-менеджер (відділ закупівель)", :salary=>"15 000 грн", :company=>"Nimpha, цифровий світ"}
+{:vacancy=>"Інженер комп'ютерних систем", :salary=>"14 000 грн", :company=>"Нова пошта, ТОВ"}
+{:vacancy=>"Програміст 1С", :salary=>"", :company=>"Болена, ТМ"}
+{:vacancy=>"Системный администратор", :salary=>"18 000 грн", :company=>"Тайстра Груп, ТОВ"}
+{:vacancy=>"Викладач робототехніки", :salary=>"", :company=>"Чернівецький обласний центр зайнятості"}
+{:vacancy=>"Специалист технической поддержки", :salary=>"8 000 грн", :company=>"Chatos"}
+{:vacancy=>"Помічник майстра з ремонту цифрової техніки", :salary=>"10 000 грн", :company=>"MTA, мережа магазинів цифрової техніки"}
+{:vacancy=>"Контент-менеджер", :salary=>"10 000 грн", :company=>"Світ Матраців"}
+{:vacancy=>"Таргетолог", :salary=>"15 000 грн", :company=>"Елетромонтаж СтоВат"}
+{:vacancy=>"PHP developer", :salary=>"", :company=>"Світ Матраців"}
+{:vacancy=>"Помічник майстра з ремонту цифрової техніки", :salary=>"10 000 грн", :company=>"MTA, мережа магазинів цифрової техніки"}
+{:vacancy=>"Контент-менеджер", :salary=>"10 000 – 15 000 грн", :company=>"Теплоцентр, ТОВ"}
+{:vacancy=>"Електронник", :salary=>"10 000 грн", :company=>"Максимус"}
+{:vacancy=>"Системний адміністратор", :salary=>"12 000 грн", :company=>"Автовин, ЧП"}
+{:vacancy=>"Спеціаліст з супроводу бухгалтерського програмного забезпечення", :salary=>"", :company=>"Портфель, ПП"}
+{:vacancy=>"SMM-копірайтер", :salary=>"9 000 – 12 000 грн", :company=>"BinGo tours"}
+{:vacancy=>"Junior React developer", :salary=>"11 000 – 35 000 грн", :company=>"New Side Solutions"}
+{:vacancy=>"ІТ-спеціаліст", :salary=>"15 000 – 20 000 грн", :company=>"Полістар, ТОВ"}
+{:vacancy=>"Technical support specialist", :salary=>"27 000 – 32 500 грн", :company=>"PSV Game Studio"}
+{:vacancy=>"PHP developer", :salary=>"", :company=>"ELogic"}
+{:vacancy=>"SMM-менеджер", :salary=>"10 000 – 15 000 грн", :company=>"Пік О.П., ФОП"}
+{:vacancy=>"Системний адміністратор", :salary=>"", :company=>"Global IT Support"}
+{:vacancy=>"Менеджер з соціальних мереж", :salary=>"8 000 – 18 000 грн", :company=>"Дячук В.С., ФОП"}
+{:vacancy=>"Керівник інтернет-магазину", :salary=>"", :company=>"Теплоцентр, ТОВ"}
+{:vacancy=>"Комп'ютерний майстер", :salary=>"8 000 – 12 000 грн", :company=>"Notik"}
+{:vacancy=>"Flutter Developer", :salary=>"", :company=>"Datawiz.io"}
+{:vacancy=>"Менеджер по продажам (IT)", :salary=>"7 000 грн", :company=>"Chatos"}
+{:vacancy=>"Middle React Native Developer", :salary=>"", :company=>"Uvik"}
+{:vacancy=>"Front-end програміст", :salary=>"", :company=>"Kifa, студія web-дизайну"}
+{:vacancy=>"Middle Python Developer", :salary=>"", :company=>"Uvik"}
+{:vacancy=>"PPC-специалист (Google Ads)", :salary=>"10 000 – 20 000 грн", :company=>"Western Trade Group"}
+{:vacancy=>"Помічник контент-менеджера для інтернет-магазину", :salary=>"6 000 – 12 000 грн", :company=>"Кукуруза В.В., ФЛП"}
+{:vacancy=>"Технический специалист GetCourse", :salary=>"12 000 – 14 000 грн", :company=>"Trend X"}
+{:vacancy=>"Продавец-консультант в магазин Apple-техники Dmitryuk", :salary=>"8 000 – 15 000 грн", :company=>"Дмитрюк А. А., ФОП"}
+{:vacancy=>"Программист 1C", :salary=>"25 000 грн", :company=>"Тайстра Груп, ТОВ"}
+{:vacancy=>"Инженер-конструктор (3Ds max, AutoCad, Компас)", :salary=>"15 000 – 20 000 грн", :company=>"Стиль-Люкс, ТОВ"}
+{:vacancy=>"Delphi-C# WinForms developer", :salary=>"", :company=>"CherniSoft, LLC"}
+{:vacancy=>"Full stack Developer (.Net/C#)", :salary=>"", :company=>"Sales-Up"}
+{:vacancy=>"Майстер з ремонту телефонів та комп'ютерної техніки, технік, сервісний інженер", :salary=>"18 000 – 35 000 грн", :company=>"Granovski"}
+{:vacancy=>"Програміст 1C", :salary=>"", :company=>"Union Group"}
+{:vacancy=>"Продавець-консультант цифрової техніки (ТРЦ \"Депот\")", :salary=>"", :company=>"Moyo, мережа магазинів"}
+{:vacancy=>"Продакт-менеджер (відділ закупівель)", :salary=>"15 000 грн", :company=>"Nimpha, цифровий світ"}
+{:vacancy=>"Інженер комп'ютерних систем", :salary=>"14 000 грн", :company=>"Нова пошта, ТОВ"}
+{:vacancy=>"Програміст 1С", :salary=>"", :company=>"Болена, ТМ"}
+{:vacancy=>"Системный администратор", :salary=>"18 000 грн", :company=>"Тайстра Груп, ТОВ"}
+{:vacancy=>"Викладач робототехніки", :salary=>"", :company=>"Чернівецький обласний центр зайнятості"}
+{:vacancy=>"Специалист технической поддержки", :salary=>"8 000 грн", :company=>"Chatos"}
+{:vacancy=>"Помічник майстра з ремонту цифрової техніки", :salary=>"10 000 грн", :company=>"MTA, мережа магазинів цифрової техніки"}
+{:vacancy=>"Контент-менеджер", :salary=>"10 000 грн", :company=>"Світ Матраців"}
+{:vacancy=>"Таргетолог", :salary=>"15 000 грн", :company=>"Елетромонтаж СтоВат"}
+{:vacancy=>"PHP developer", :salary=>"", :company=>"Світ Матраців"}
+{:vacancy=>"Помічник майстра з ремонту цифрової техніки", :salary=>"10 000 грн", :company=>"MTA, мережа магазинів цифрової техніки"}
+{:vacancy=>"Контент-менеджер", :salary=>"10 000 – 15 000 грн", :company=>"Теплоцентр, ТОВ"}
+{:vacancy=>"Електронник", :salary=>"10 000 грн", :company=>"Максимус"}
+{:vacancy=>"Системний адміністратор", :salary=>"12 000 грн", :company=>"Автовин, ЧП"}
+{:vacancy=>"Спеціаліст з супроводу бухгалтерського програмного забезпечення", :salary=>"", :company=>"Портфель, ПП"}
+{:vacancy=>"SMM-копірайтер", :salary=>"9 000 – 12 000 грн", :company=>"BinGo tours"}
+{:vacancy=>"Junior React developer", :salary=>"11 000 – 35 000 грн", :company=>"New Side Solutions"}
+{:vacancy=>"ІТ-спеціаліст", :salary=>"15 000 – 20 000 грн", :company=>"Полістар, ТОВ"}
+{:vacancy=>"Technical support specialist", :salary=>"27 000 – 32 500 грн", :company=>"PSV Game Studio"}
+{:vacancy=>"PHP developer", :salary=>"", :company=>"ELogic"}
+{:vacancy=>"SMM-менеджер", :salary=>"10 000 – 15 000 грн", :company=>"Пік О.П., ФОП"}
+{:vacancy=>"Системний адміністратор", :salary=>"", :company=>"Global IT Support"}
+{:vacancy=>"Менеджер з соціальних мереж", :salary=>"8 000 – 18 000 грн", :company=>"Дячук В.С., ФОП"}
+{:vacancy=>"Керівник інтернет-магазину", :salary=>"", :company=>"Теплоцентр, ТОВ"}
+{:vacancy=>"Комп'ютерний майстер", :salary=>"8 000 – 12 000 грн", :company=>"Notik"}
+{:vacancy=>"Flutter Developer", :salary=>"", :company=>"Datawiz.io"}
+{:vacancy=>"Менеджер по продажам (IT)", :salary=>"7 000 грн", :company=>"Chatos"}
+{:vacancy=>"Middle React Native Developer", :salary=>"", :company=>"Uvik"}
+{:vacancy=>"Front-end програміст", :salary=>"", :company=>"Kifa, студія web-дизайну"}
+{:vacancy=>"Middle Python Developer", :salary=>"", :company=>"Uvik"}
+{:vacancy=>"PPC-специалист (Google Ads)", :salary=>"10 000 – 20 000 грн", :company=>"Western Trade Group"}
+{:vacancy=>"Помічник контент-менеджера для інтернет-магазину", :salary=>"6 000 – 12 000 грн", :company=>"Кукуруза В.В., ФЛП"}
+{:vacancy=>"Технический специалист GetCourse", :salary=>"12 000 – 14 000 грн", :company=>"Trend X"}
+{:vacancy=>"Продавец-консультант в магазин Apple-техники Dmitryuk", :salary=>"8 000 – 15 000 грн", :company=>"Дмитрюк А. А., ФОП"}
+{:vacancy=>"Программист 1C", :salary=>"25 000 грн", :company=>"Тайстра Груп, ТОВ"}
+{:vacancy=>"Инженер-конструктор (3Ds max, AutoCad, Компас)", :salary=>"15 000 – 20 000 грн", :company=>"Стиль-Люкс, ТОВ"}
+{:vacancy=>"Delphi-C# WinForms developer", :salary=>"", :company=>"CherniSoft, LLC"}
+{:vacancy=>"Full stack Developer (.Net/C#)", :salary=>"", :company=>"Sales-Up"}
+{:vacancy=>"Майстер з ремонту телефонів та комп'ютерної техніки, технік, сервісний інженер", :salary=>"18 000 – 35 000 грн", :company=>"Granovski"}
+{:vacancy=>"Програміст 1C", :salary=>"", :company=>"Union Group"}
+{:vacancy=>"Продавець-консультант цифрової техніки (ТРЦ \"Депот\")", :salary=>"", :company=>"Moyo, мережа магазинів"}
+{:vacancy=>"Продакт-менеджер (відділ закупівель)", :salary=>"15 000 грн", :company=>"Nimpha, цифровий світ"}
+{:vacancy=>"Інженер комп'ютерних систем", :salary=>"14 000 грн", :company=>"Нова пошта, ТОВ"}
+{:vacancy=>"Програміст 1С", :salary=>"", :company=>"Болена, ТМ"}
+{:vacancy=>"Системный администратор", :salary=>"18 000 грн", :company=>"Тайстра Груп, ТОВ"}
+{:vacancy=>"Викладач робототехніки", :salary=>"", :company=>"Чернівецький обласний центр зайнятості"}
+{:vacancy=>"Специалист технической поддержки", :salary=>"8 000 грн", :company=>"Chatos"}
+{:vacancy=>"Помічник майстра з ремонту цифрової техніки", :salary=>"10 000 грн", :company=>"MTA, мережа магазинів цифрової техніки"}
+{:vacancy=>"Контент-менеджер", :salary=>"10 000 грн", :company=>"Світ Матраців"}
+{:vacancy=>"Таргетолог", :salary=>"15 000 грн", :company=>"Елетромонтаж СтоВат"}
+{:vacancy=>"PHP developer", :salary=>"", :company=>"Світ Матраців"}
+{:vacancy=>"Помічник майстра з ремонту цифрової техніки", :salary=>"10 000 грн", :company=>"MTA, мережа магазинів цифрової техніки"}
+{:vacancy=>"Контент-менеджер", :salary=>"10 000 – 15 000 грн", :company=>"Теплоцентр, ТОВ"}
+{:vacancy=>"Електронник", :salary=>"10 000 грн", :company=>"Максимус"}
+{:vacancy=>"Системний адміністратор", :salary=>"12 000 грн", :company=>"Автовин, ЧП"}
+{:vacancy=>"Спеціаліст з супроводу бухгалтерського програмного забезпечення", :salary=>"", :company=>"Портфель, ПП"}
+{:vacancy=>"SMM-копірайтер", :salary=>"9 000 – 12 000 грн", :company=>"BinGo tours"}
+{:vacancy=>"Junior React developer", :salary=>"11 000 – 35 000 грн", :company=>"New Side Solutions"}
+{:vacancy=>"ІТ-спеціаліст", :salary=>"15 000 – 20 000 грн", :company=>"Полістар, ТОВ"}
+{:vacancy=>"Technical support specialist", :salary=>"27 000 – 32 500 грн", :company=>"PSV Game Studio"}
+{:vacancy=>"PHP developer", :salary=>"", :company=>"ELogic"}
+{:vacancy=>"SMM-менеджер", :salary=>"10 000 – 15 000 грн", :company=>"Пік О.П., ФОП"}
+{:vacancy=>"Системний адміністратор", :salary=>"", :company=>"Global IT Support"}
+{:vacancy=>"Менеджер з соціальних мереж", :salary=>"8 000 – 18 000 грн", :company=>"Дячук В.С., ФОП"}
+{:vacancy=>"Керівник інтернет-магазину", :salary=>"", :company=>"Теплоцентр, ТОВ"}
+{:vacancy=>"Комп'ютерний майстер", :salary=>"8 000 – 12 000 грн", :company=>"Notik"}
+{:vacancy=>"Flutter Developer", :salary=>"", :company=>"Datawiz.io"}
+{:vacancy=>"Менеджер по продажам (IT)", :salary=>"7 000 грн", :company=>"Chatos"}
+{:vacancy=>"Middle React Native Developer", :salary=>"", :company=>"Uvik"}
+{:vacancy=>"Front-end програміст", :salary=>"", :company=>"Kifa, студія web-дизайну"}
+{:vacancy=>"Middle Python Developer", :salary=>"", :company=>"Uvik"}
+{:vacancy=>"PPC-специалист (Google Ads)", :salary=>"10 000 – 20 000 грн", :company=>"Western Trade Group"}
+{:vacancy=>"Помічник контент-менеджера для інтернет-магазину", :salary=>"6 000 – 12 000 грн", :company=>"Кукуруза В.В., ФЛП"}
